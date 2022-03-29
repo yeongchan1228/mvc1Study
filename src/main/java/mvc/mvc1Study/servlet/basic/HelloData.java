@@ -1,4 +1,4 @@
-package mvc.mvc1Study.servlet;
+package mvc.mvc1Study.servlet.basic;
 
 import lombok.Getter;
 import lombok.Setter;

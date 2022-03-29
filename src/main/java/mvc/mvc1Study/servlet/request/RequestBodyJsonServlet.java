@@ -1,7 +1,7 @@
 package mvc.mvc1Study.servlet.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import mvc.mvc1Study.servlet.HelloData;
+import mvc.mvc1Study.servlet.basic.HelloData;
 import org.springframework.util.StreamUtils;
 
 import javax.servlet.ServletException;

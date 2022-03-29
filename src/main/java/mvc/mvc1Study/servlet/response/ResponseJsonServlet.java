@@ -1,7 +1,7 @@
 package mvc.mvc1Study.servlet.response;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import mvc.mvc1Study.servlet.HelloData;
+import mvc.mvc1Study.servlet.basic.HelloData;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
