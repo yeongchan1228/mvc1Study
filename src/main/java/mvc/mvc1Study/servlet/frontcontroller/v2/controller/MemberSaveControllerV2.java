@@ -24,7 +24,7 @@ public class MemberSaveControllerV2 implements ControllerV2 {
 
         request.setAttribute("member", member);
 
-        String viewPath = "/WEB-INF/views/save.jsp";
+        String viewPath = "/WEB-INF/views/save-result.jsp";
         return new MyView(viewPath);
     }
 }
